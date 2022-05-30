@@ -1,13 +1,12 @@
 input[type="text"]{
-    font-size: x-large;   
-    border: none;   
-    border-color: rebeccapurple; 
-    border-bottom: 1px solid;  
+    font-size: x-large;
+    border: none rebeccapurple;
+    border-bottom: 1px solid;
     border-radius: 5%;    
 }
 body {
    background-color: black;
-   font-size: 10pxx;  
+   font-size: 10px;
 }
 head{
   font-size:larger;  
