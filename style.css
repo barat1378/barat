@@ -1,0 +1,11 @@
+input[type="text"]{
+    font-size: x-large;   
+    border: none;   
+    border-color: rebeccapurple; 
+    border-bottom: 1px solid;  
+    border-radius: 5%;    
+}
+body {
+   background-color: black;
+   font-size: 10pxx;  
+}
