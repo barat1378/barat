@@ -1,14 +1,24 @@
-input[type="text"]{
+input[type="text"] {
     font-size: x-large;
     border: none rebeccapurple;
     border-bottom: 1px solid;
-    border-radius: 5%;    
+    border-radius: 5%;
 }
+
 body {
-   background-color: black;
-   font-size: 10px;
+    background-color: black;
+    font-size: 10px;
+    font-family: "Arial Narrow", serif;
 }
-head{
-  font-size:larger;  
-  font-color:red;   
+
+head {
+    font-size: larger;
+    font-color: red;
+}
+
+h1 {
+    font-size: larger;
+    font-style: italic;
+    color: blue;
+    border-bottom-style: dashed;
 }
